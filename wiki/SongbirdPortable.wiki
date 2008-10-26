@@ -1,0 +1,8 @@
+#summary A media player and library, similar to iTunes
+#labels Featured
+
+|| *Application* || [http://getsongbird.com/ Songbird] ||
+|| *Version* || 0.7 ||
+|| *Development Version* || Development Test 1 ||
+|| *Download* || [http://cubegames.net/code/binaries/Songbird_Portable_0.7_Development_Test_1.paf.exe] ||
+|| *Description* || Songbird is an open-source customisable music player, under active development. ||
