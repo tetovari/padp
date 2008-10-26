@@ -1,5 +1,5 @@
 #summary A media player and library, similar to iTunes
-#labels Featured
+#labels Featured,Project-Songbird
 
 || *Application* || [http://getsongbird.com/ Songbird] ||
 || *Version* || 0.7 ||
