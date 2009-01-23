@@ -1,0 +1,2 @@
+WinMerge source code is available from the WinMerge Portable page:
+http://portableapps.com/apps/utilities/winmerge_portable

@@ -1,0 +1,1 @@
+WinMerge settings will go here.  The directories will be generated when WinMerge Portable is first run.
