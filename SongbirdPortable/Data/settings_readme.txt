@@ -1,0 +1,1 @@
+Songbird settings and your profile will go here.  The directories will be generated when Songbird Portable is first run.
